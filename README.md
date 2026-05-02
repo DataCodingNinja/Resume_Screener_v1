@@ -1,7 +1,7 @@
 # Resume Screener (Streamlit UI )
 
 Lightweight resume parsing + fit scorer demo using TF-IDF + Logistic Regression.
-Designed to run on a modest PC (8GB). All files can stay in one folder.
+
 
 Files
 - app.py — Streamlit front-end, trains model on sample resumes and scores uploads.
